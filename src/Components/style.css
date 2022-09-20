@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+.card-outer{
+    margin: 20px;
+    border: 1px solid black;
+    box-shadow: 5px 5px #888888;
+}
